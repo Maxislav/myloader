@@ -1,0 +1,15 @@
+{
+  "name": "myloader",
+  "version": "1.0.0",
+  "description": "load via socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxislav",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "socket.io-client": "^2.0.4"
+  }
+}
